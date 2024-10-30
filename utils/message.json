@@ -1,0 +1,29 @@
+{
+	"SUCCESS":"Success",
+	"FAILED":"Failed",
+	"PREDICTION_SUCCESS": "Prediction success",
+	"PREDICTION_FAILED": "Prediction failed",
+	"GENERAL": "Something Went Wrong!!, Please Try Again.",
+
+
+    "USER_CREATED" : "User created successfully.",
+	"USER_UPDATED" : "User updated successfully.",
+	"USER_DELETED" : "User deleted successfully.",
+	"USER_ALREADY_EXISTS" : "User already exists.",
+	"USER_NOT_FOUND": "User not found Please Register Yourself.",
+	"USER_EMAIL_EXISTS": "User email Already Exists.",
+
+	"SKILL_CREATED" : "Skill created successfully.",
+
+    "SIGNUP_SUCCESS": "Sign Up Successfully.",
+	"LOGIN_SUCCESS":"Log In Successfully.",
+
+	"INVALID_USER": "Invalid user.",
+	"INVALID_TOKEN": "Inavlid Token.",
+	"INVALID_TOKEN_TYPE": "Inavlid Token Type.",
+	"INVALID_PASSWORD":"Password Doesn't Match.",
+	"TOKEN_EXPIRED": "Token is expired!",
+	"NOT_AUTHORIZED":"You Are Not Authorized.",
+	"NOT_FOUND": "Not Found.",
+	"HISTORY_NOT_FOUND": "No history found."
+}
